@@ -18,7 +18,7 @@ My research interests lie in the security problems in IoT and blockchain. I've b
 **Xinshu Ma**, Chunpeng Ge and Zhe Liu.  
 *Journal of Systems Architecture (**JSA**), 2020. (Major Revision)*
 
-- [Blockchain-enabled Privacy-preserving Internet of Vehicles: Decentralized and Reputation-based Network Architecture](/NSSpaper.pdf)  
+- [Blockchain-enabled Privacy-preserving Internet of Vehicles: Decentralized and Reputation-based Network Architecture](\NSSpaper.pdf)  
 **Xinshu Ma**, Chunpeng Ge and Zhe Liu.  
 *International Conference on Network and System Security (**NSS**), 2019. <font color=red>Best Paper Award</font> (To Appear)*    
 
