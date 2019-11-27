@@ -42,7 +42,6 @@ Advisor: Prof. [Pawel Szalachowski](https://pszal.github.io/)
 
 - 2016-2017  
 Network and Information Security Laboratory, NUAA, China  
-
 Undergraduate Research Assistant  
 Topic:  An efficient and secure ridge regression outsourcing scheme.   
 Advisor: Prof. [Youwen Zhu](http://zhuyw.cn/en.htm)
