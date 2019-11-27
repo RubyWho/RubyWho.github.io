@@ -22,11 +22,11 @@ My research interests lie in the security problems in IoT and blockchain. I've b
 **Xinshu Ma**, Chunpeng Ge and Zhe Liu.  
 *International Conference on Network and System Security (**NSS**), 2019. <font color=red>Best Paper Award</font> (To Appear)*    
 
-- [Exact Algorithms for Maximizing Lifetime of WSNs Using Integer Linear Programming](/Exact Algorithms for Maximizing Lifetime of WSNs using Integer Linear Programming.pdf)  
+- [Exact Algorithms for Maximizing Lifetime of WSNs Using Integer Linear Programming](\Exact Algorithms for Maximizing Lifetime of WSNs using Integer Linear Programming.pdf)  
 **Xinshu Ma**, Xiaojun Zhu and Bing Chen.  
 *Wireless Communications and Networking Conference (**WCNC**), 2017.*
 
-- [An efficient and secure ridge regression outsourcing scheme in wearable devices](/An efficient and secure ridge regression outsourcing scheme in wearable devices.pdf)   
+- [An efficient and secure ridge regression outsourcing scheme in wearable devices](\An efficient and secure ridge regression outsourcing scheme in wearable devices.pdf)   
 **Xinshu Ma**, Youwen Zhu and Xingxin Li.  
 *Computers & Electrical Engineering (**CEE**), 2017.*
 
@@ -37,7 +37,7 @@ My research interests lie in the security problems in IoT and blockchain. I've b
 - Jan-May 2019  
 Singapore University of Technology and Design (SUTD), Singapore  
 Research Intern  
-Topic:  [Security analysis of StrongChain](/OptimalSelfishMiningPolicyReport.pdf) (<font size=2>click to view the report</font>)  
+Topic:  [Security analysis of StrongChain](\OptimalSelfishMiningPolicyReport.pdf) (<font size=2>click to view the report</font>)  
 Advisor: Prof. [Pawel Szalachowski](https://pszal.github.io/)
 
 - 2016-2017  
@@ -66,4 +66,4 @@ Advisor: Prof. [Xiaojun Zhu](http://www.xzhu.info/)
 ### About me
 ----
 Email: xinshuma@nuaa.edu.cn   
-Please feel free to look at my [CV](/XinshuCV.pdf).
+Please feel free to look at my [CV](\XinshuCV.pdf).
