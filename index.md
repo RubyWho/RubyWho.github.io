@@ -34,19 +34,19 @@ My research interests lie in the security problems in IoT and blockchain. I've b
 
 ### Experience
 ---
-- Jan-May 2019  
+- Jan - May 2019  
 Singapore University of Technology and Design (SUTD), Singapore  
 Research Intern  
 Topic:  [Security analysis of StrongChain](\OptimalSelfishMiningPolicyReport.pdf) (<font size=2>click to view the report</font>)  
 Advisor: Prof. [Pawel Szalachowski](https://pszal.github.io/)
 
-- 2016-2017  
+- Oct. 2016 - Oct. 2017  
 Network and Information Security Laboratory, NUAA, China  
 Undergraduate Research Assistant  
 Topic:  An efficient and secure ridge regression outsourcing scheme.   
 Advisor: Prof. [Youwen Zhu](http://zhuyw.cn/en.htm)
 
-- 2015-2016  
+- Oct. 2015 - Oct. 2016  
 Institute of Grid and Cloud Computing, NUAA, China  
 Undergraduate Research Assistant  
 Topic:  Maximizing lifetime of WSNs using integer linear programming  
