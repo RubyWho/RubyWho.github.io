@@ -4,9 +4,10 @@
  </center>
 ### Biography
 -----
-Welcome! My name is Xinshu and I am a master student major in Cyberspace Security at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/) (NUAA), supervised by Prof. [Zhe Liu](https://scholar.google.com/citations?user=Em0jNiUAAAAJ&hl=en). Before that, I received my B.Eng degree from [Department of Computer Science and Technology](https://cs.nuaa.edu.cn/) in NUAA in 2017.
+Welcome! My name is Xinshu and I am a master student major in Cyberspace Security at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/) (NUAA), supervised by Prof. [Zhe Liu](https://scholar.google.com/citations?user=Em0jNiUAAAAJ&hl=en). Before that, I received my B.Eng degree from [Department of Computer Science and Technology](https://cs.nuaa.edu.cn/) in NUAA in 2017. Please feel free to look at my [CV](\XinshuCV.pdf).
 
 My research interests lie in the security problems in IoT and blockchain. I've been working on how to apply recent techniques in blockchain to cope with the security problems in IoT. I have also done some works about secure outsourcing scheme and maximizing the lifetime of WSNs.
+
 
 ### Publications & Research
 ------
@@ -63,7 +64,8 @@ Advisor: Prof. [Xiaojun Zhu](http://www.xzhu.info/)
 -  First Class Scholarship of NUAA, 2015-2017
 -  Third Class Scholarship of NUAA, Nov. 2014
 
-### About me
+
+
+###Contact me
 ----
 Email: xinshuma@nuaa.edu.cn   
-Please feel free to look at my [CV](\XinshuCV.pdf).
