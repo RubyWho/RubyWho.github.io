@@ -34,7 +34,7 @@ My research interests lie in the security problems in IoT and blockchain. I've b
 
 ### Experience
 ---
-- Jan - May 2019  
+- Jan. - May. 2019  
 Singapore University of Technology and Design (SUTD), Singapore  
 Research Intern  
 Topic:  [Security analysis of StrongChain](\OptimalSelfishMiningPolicyReport.pdf) (<font size=2>click to view the report</font>)  
