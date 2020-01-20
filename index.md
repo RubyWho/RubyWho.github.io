@@ -1,7 +1,7 @@
 #<center> Xinshu Ma </center>
- <center>
+<!--  <center>
  <img src="xinshu.jpeg"  width=20% height=20% />
- </center>
+ </center> -->
 ### Biography
 -----
 Welcome! My name is Xinshu and I am a master student major in Cyberspace Security at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/) (NUAA), supervised by Prof. [Zhe Liu](https://scholar.google.com/citations?user=Em0jNiUAAAAJ&hl=en). Before that, I received my B.Eng degree from [Department of Computer Science and Technology](https://cs.nuaa.edu.cn/) in NUAA in 2017. Please feel free to look at my [CV](\XinshuCV.pdf).
