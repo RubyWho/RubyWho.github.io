@@ -1,6 +1,6 @@
 #<center> Xinshu Ma </center>
  <center>
- <img src="XinshuPhoto.jpeg"  width=20% height=20% />
+ <img src="XinshuPhoto.jpeg"  width=40% height=40% />
  </center>
 ### Biography
 -----
@@ -15,7 +15,7 @@ My research interests lie in the security problems in IoT and blockchain. I've b
 **Xinshu Ma**, Chunpeng Ge and Zhe Liu.  
 *IEEE Transactions on Dependable and Secure Computing (**TDSC**) 2020. (Submitted)*
 
-- [A Semi-autonomous Distributed Blockchain-based Framework for UAVs System](https://www.sciencedirect.com/science/article/pii/S1383762120300229) 
+- [A Semi-autonomous Distributed Blockchain-based Framework for UAVs System](https://www.sciencedirect.com/science/article/pii/S1383762120300229)  
 Chunpeng Ge, **Xinshu Ma** and Zhe Liu.  
 *Journal of Systems Architecture (**JSA**), 2020.*
 
