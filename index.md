@@ -1,6 +1,6 @@
 #<center> Xinshu Ma </center>
  <center>
- <img src="XinshuPhoto.jpeg"  width=40% height=40% />
+ <img src="XinshuPhoto.jpeg"  width=32% height=32% />
  </center>
 ### Biography
 -----
