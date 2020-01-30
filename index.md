@@ -4,7 +4,7 @@
  </center> -->
 ### Biography
 -----
-Welcome! My name is Xinshu and I am a master student major in Cyberspace Security at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/) (NUAA), supervised by Prof. [Zhe Liu](https://scholar.google.com/citations?user=Em0jNiUAAAAJ&hl=en). Before that, I received my B.Eng degree from [Department of Computer Science and Technology](https://cs.nuaa.edu.cn/) in NUAA in 2017. Please feel free to look at my [CV](\XinshuCV.pdf).
+Welcome! My name is Xinshu and I am a master student major in Cyberspace Security at [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/) (NUAA), supervised by Prof. [Zhe Liu](https://scholar.google.com/citations?user=Em0jNiUAAAAJ&hl=en). Before that, I received my B.Eng degree from [Department of Computer Science and Technology](https://cs.nuaa.edu.cn/) in NUAA in 2017. 
 
 My research interests lie in the security problems in IoT and blockchain. I've been working on how to apply recent techniques in blockchain to cope with the security problems in IoT. I have also done some works about secure outsourcing scheme and maximizing the lifetime of WSNs.
 
@@ -15,13 +15,13 @@ My research interests lie in the security problems in IoT and blockchain. I've b
 **Xinshu Ma**, Chunpeng Ge and Zhe Liu.  
 *IEEE Transactions on Dependable and Secure Computing (**TDSC**) 2020. (Submitted)*
 
-- A Semi-autonomous Distributed Blockchain-based Framework for UAVs System  
-**Xinshu Ma**, Chunpeng Ge and Zhe Liu.  
-*Journal of Systems Architecture (**JSA**), 2020. (Major Revision)*
+- [A Semi-autonomous Distributed Blockchain-based Framework for UAVs System](https://www.sciencedirect.com/science/article/pii/S1383762120300229) 
+Chunpeng Ge, **Xinshu Ma** and Zhe Liu.  
+*Journal of Systems Architecture (**JSA**), 2020.*
 
-- [Blockchain-enabled Privacy-preserving Internet of Vehicles: Decentralized and Reputation-based Network Architecture](\NSSpaper.pdf)  
+- [Blockchain-enabled Privacy-preserving Internet of Vehicles: Decentralized and Reputation-based Network Architecture](https://link.springer.com/chapter/10.1007/978-3-030-36938-5_20)  
 **Xinshu Ma**, Chunpeng Ge and Zhe Liu.  
-*International Conference on Network and System Security (**NSS**), 2019. <font color=red>Best Paper Award</font> (To Appear)*    
+*International Conference on Network and System Security (**NSS**), 2019. <font color=red>Best Paper Award</font>*    
 
 - [Exact Algorithms for Maximizing Lifetime of WSNs Using Integer Linear Programming](\Exact Algorithms for Maximizing Lifetime of WSNs using Integer Linear Programming.pdf)  
 **Xinshu Ma**, Xiaojun Zhu and Bing Chen.  
@@ -69,3 +69,4 @@ Advisor: Prof. [Xiaojun Zhu](http://www.xzhu.info/)
 ###Contact me
 ----
 Email: xinshuma@nuaa.edu.cn   
+Please feel free to download my [CV](\XinshuCV.pdf).
