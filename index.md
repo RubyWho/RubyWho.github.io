@@ -11,9 +11,6 @@ My research interests lie in the security problems in IoT and blockchain. I've b
 
 ### Publications & Research
 ------
-<!-- - Blockchain-enabled Internet of Vehicles with QoS guarantee  
-**Xinshu Ma**, Chunpeng Ge and Zhe Liu.  
-*IEEE Transactions on Dependable and Secure Computing (**TDSC**) 2020. (Submitted)* -->
 
 - [A Semi-autonomous Distributed Blockchain-based Framework for UAVs System](https://www.sciencedirect.com/science/article/pii/S1383762120300229)  
 Chunpeng Ge, **Xinshu Ma** and Zhe Liu.  
